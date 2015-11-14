@@ -1,0 +1,28 @@
+array
+(
+	'data' => array
+	(
+		'apikey' => 'tBM6WLf7', 
+		'objectType' => 'animalBreeds', 
+		'objectAction' => 'publicList', 
+		'search' => array
+		(
+			'resultLimit' => '300', 
+			'fields' => array
+			(
+				'breedID', 'breedName'
+			), 
+			'filterProcessing' => '1', 
+			'filters' => array
+			(
+				array
+				(
+					'fieldName' => 'species', 
+					'operation' => 'equals', 
+					'criteria' => 'Dog'
+				)
+			)
+		)
+	), 
+	'count' => '0'
+)

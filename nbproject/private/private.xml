@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ken/Code/afhdev/config/services.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/database/seeds/RolesTableSeeder.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/config/auth.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/database/seeds/PermissionsTableSeeder.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/vendor/composer/autoload_classmap.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/app/Models/Permission.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/app/Models/User.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/config/database.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/app/Models/Role.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/database/seeds/UserTableSeeder.php</file>
+            <file>file:/C:/Users/Ken/Code/afhdev/database/seeds/DatabaseSeeder.php</file>
+        </group>
+    </open-files>
+</project-private>
